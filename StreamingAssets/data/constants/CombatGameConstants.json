@@ -1,0 +1,14 @@
+{
+"CameraConstants":
+    {
+		"CamDelayDeath" : 2.0,
+        "CamDelayBuildingDeath" : 1.5,
+        "CamDelayFall" : 2.0,
+        "CamDelayLocationDestroyed" : 2.0,
+        "CamDelayCriticalHit" : 2.0,
+        "CamDelayComponentDestroyed" : 2.0,
+        "CamDelayPilotInjured" : 2.0,
+        "CamDelayPilotInspired" : 3.0,
+        "CamDelayMiscInfo" : 1.5
+    }
+}
