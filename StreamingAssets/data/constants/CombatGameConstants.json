@@ -1,7 +1,7 @@
 {
 "CameraConstants":
     {
-		"CamDelayDeath" : 2.0,
+	"CamDelayDeath" : 2.0,
         "CamDelayBuildingDeath" : 1.5,
         "CamDelayFall" : 2.0,
         "CamDelayLocationDestroyed" : 2.0,
