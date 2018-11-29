@@ -9,7 +9,7 @@ CombatGameConstants.json
 
     "CameraConstants":
     
-    	"CamDelayDeath" : 2.0, *From 4.0*
+        "CamDelayDeath" : 2.0, *From 4.0*
         "CamDelayBuildingDeath" : 1.5, *From 4.5*
         "CamDelayFall" : 2.0, *From 4.0*
         "CamDelayLocationDestroyed" : 2.0, *From 3.0*
