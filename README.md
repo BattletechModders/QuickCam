@@ -18,6 +18,7 @@ https://github.com/BattletechModders/BattleTechModLoader/releases
 
 ## Stock File Edits:
 StreamingAssets\data\constants -
+
     CombatGameConstants.json
         "CameraConstants":
     
