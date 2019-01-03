@@ -1,13 +1,13 @@
 # QuickCam
 Shorter camera delays for HBS BATTLETECH.
 
-This ModTek mod changes the camera delays found in the CombatGameConstants.json.  This is intended for experienced players that don't need the longer pauses for status updates.  Meant to be used in addition to shortening the common audio delays, but may be used alone. Feel free to edit the values to your own liking.
+This ModTek mod changes the camera delays found in the CombatGameConstants.json.  This is intended for experienced players that don't want the longer pauses for status updates.  Meant to be used in addition to shortening the common audio delays, but may be used alone. Feel free to edit the values to your own liking.
 
-A/B Video:
+#### A/B Video:
 https://youtu.be/pmEC6UIdYws
 
-Change Log:
-
+## Stock File Edits:
+StreamingAssets\data\constants -
 CombatGameConstants.json
 
     "CameraConstants":
@@ -22,6 +22,13 @@ CombatGameConstants.json
         "CamDelayPilotInspired" : 3.0, *Unchanged*
         "CamDelayMiscInfo" : 1.5 *Unchanged*
         
-Instructions:
+### Instructions:
 
     Copy QuickCam folder in to Mods folder created for ModTek.
+    
+### ModTek/BTML
+This mod needs ModTek and BTML to work, links below:
+
+https://github.com/BattletechModders/ModTek/releases
+
+https://github.com/BattletechModders/BattleTechModLoader/releases
