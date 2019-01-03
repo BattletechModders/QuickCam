@@ -10,13 +10,12 @@ https://youtu.be/pmEC6UIdYws
     
 ### ModTek/BTML
 This mod needs ModTek and BTML to work, links below:
-
 https://github.com/BattletechModders/ModTek/releases
-
 https://github.com/BattletechModders/BattleTechModLoader/releases
 
 ## Stock File Edits:
 StreamingAssets\data\constants -
+
 CombatGameConstants.json
 
     "CameraConstants":
