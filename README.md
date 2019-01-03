@@ -10,7 +10,7 @@ QuickCam shouldn't cause any errors with save files, even saves in combat, or wi
     Copy QuickCam folder in to Mods folder created for ModTek.
     
 ### ModTek/BTML
-This mod needs ModTek and BTML to work, links below:
+This mod needs ModTek and BTML to work:
 
 https://github.com/BattletechModders/ModTek/releases
 
