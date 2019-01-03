@@ -3,8 +3,7 @@ This ModTek mod changes the camera delays found in the CombatGameConstants.json.
 
 QuickCam shouldn't cause any errors with save files, even saves in combat, or with version updates. I've done extensive testing back and forth between stock and modded play without any errors. It does not add any new items to the VersionManifest.csv.
 
-#### A/B Video:
-https://youtu.be/pmEC6UIdYws
+#### A/B Video: https://youtu.be/pmEC6UIdYws
 
 ### Instructions:
 
@@ -19,17 +18,15 @@ https://github.com/BattletechModders/BattleTechModLoader/releases
 
 ## Stock File Edits:
 StreamingAssets\data\constants -
-
-CombatGameConstants.json
-
-    "CameraConstants":
+    CombatGameConstants.json
+        "CameraConstants":
     
-        "CamDelayDeath" : 2.0, *From 4.0*
-        "CamDelayBuildingDeath" : 1.5, *From 4.5*
-        "CamDelayFall" : 2.0, *From 4.0*
-        "CamDelayLocationDestroyed" : 2.0, *From 3.0*
-        "CamDelayCriticalHit" : 2.0, *Unchanged*
-        "CamDelayComponentDestroyed" : 2.0,*Unchanged*
-        "CamDelayPilotInjured" : 2.0, *From 3.0*
-        "CamDelayPilotInspired" : 3.0, *Unchanged*
-        "CamDelayMiscInfo" : 1.5 *Unchanged*
+            "CamDelayDeath" : 2.0, *From 4.0*
+            "CamDelayBuildingDeath" : 1.5, *From 4.5*
+            "CamDelayFall" : 2.0, *From 4.0*
+            "CamDelayLocationDestroyed" : 2.0, *From 3.0*
+            "CamDelayCriticalHit" : 2.0, *Unchanged*
+            "CamDelayComponentDestroyed" : 2.0,*Unchanged*
+            "CamDelayPilotInjured" : 2.0, *From 3.0*
+            "CamDelayPilotInspired" : 3.0, *Unchanged*
+            "CamDelayMiscInfo" : 1.5 *Unchanged*
