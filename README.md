@@ -16,7 +16,7 @@ https://github.com/BattletechModders/ModTek/releases
 
 
 ## Stock File Edits:
-StreamingAssets\data\constants -
+StreamingAssets\data\constants
 
     CombatGameConstants.json
         "CameraConstants":
