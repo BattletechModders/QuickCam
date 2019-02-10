@@ -2,8 +2,8 @@
     "Name": "QuickCam",
     "Enabled": true,
 
-    "Version": "1.0.0",
-    "Description": "Shorter camera delays in combat. For BATTLETECH 1.3.0",
+    "Version": "1.4.0.1",
+    "Description": "Shorter camera delays in combat. For BATTLETECH 1.4.0",
     "Author": "amechwarrior",
     "Website": "https://github.com/BattletechModders/QuickCam/"
 }
