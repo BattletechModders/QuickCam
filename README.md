@@ -3,8 +3,8 @@ This ModTek mod changes the camera delays found in the CombatGameConstants.json 
 
 QuickCam shouldn't cause any errors with save files, even saves in combat, or with version updates. I've done extensive testing back and forth between stock and modded play without any errors. It does not add any new items to the VersionManifest.csv.
 
-#### OBSOLETE Pre-1.5 A/B Video OBSOLETE: https://youtu.be/pmEC6UIdYws
-Leaving this up as a reference, but this no longer reflects stock play as of BATTLETECH 1.5
+#### 1.5 A/B Video https://youtu.be/FSuSgwByn30
+Old pre-1.5 comparison video here: https://youtu.be/pmEC6UIdYws
 
 ### Instructions:
 
