@@ -1,4 +1,5 @@
 # QuickCam - Shorter camera delays for HBS BATTLETECH
+### Works in 1.6.1 without any update
 This ModTek mod changes the camera delays found in the CombatGameConstants.json and AudioConstants.json.  This is intended for experienced players that don't want the longer pauses for status updates.  With BATTLETECH 1.5, many of the changes QuickCam made are now stock.  I've updated this mod's variables to remove those that are same as stock.  Most stock values that remain to be changed, are now only off a about half a second or less.
 
 QuickCam shouldn't cause any errors with save files, even saves in combat, or with version updates. I've done extensive testing back and forth between stock and modded play without any errors. It does not add any new items to the VersionManifest.csv.
